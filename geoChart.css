@@ -1,0 +1,17 @@
+body {
+    box-sizing: border-box;
+}
+
+#geoChart_container {
+    display: flex;
+    margin: auto;
+    border: solid red 2px;
+    max-width: 760px;
+}
+
+.div {
+    display: flex;
+    max-width: 760px;
+    border: solid red 2px;
+    margin: auto;
+}
